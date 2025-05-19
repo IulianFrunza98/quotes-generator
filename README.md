@@ -9,6 +9,15 @@ A simple web application that fetches and displays inspirational quotes using [T
 - 💡 Fully dynamic UI generation with JavaScript
 - 🎨 Basic responsive design (CSS customizable)
 
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/IulianFrunza98/quotes-generator.git
+cd quotes-generator
+```
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -17,8 +26,8 @@ A simple web application that fetches and displays inspirational quotes using [T
 - [TheQuotesHub API](https://thequoteshub.com/)
 
 🖼️ Example Screenshot
-![Preview]("assets/quotes-app-preview.png")
-![Preview]("assets/quotes-app-preview2.png")
+![Preview](assets/quotes-app-preview.png)
+![Preview](assets/quotes-app-preview2.png)
 
 📋 License
 This project is licensed under the MIT License — feel free to use and modify it for your own projects.
